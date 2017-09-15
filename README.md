@@ -3,7 +3,7 @@ django-allauth provider for office365
 
 Use https://apps.dev.microsoft.com/ to create your application token.
 
-Callback url is: /accounts/office365/login/callback/
+Callback url is: http://example.com/accounts/office365/login/callback/ (change example.com to your domain, e.g. localhost:8000)
 
 Add application_id and secret in admin.
 
