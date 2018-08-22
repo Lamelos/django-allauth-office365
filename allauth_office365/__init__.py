@@ -1,1 +1,1 @@
-# valueflow/__init__.py
+# allauth_office365/__init__.py
